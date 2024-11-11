@@ -1,0 +1,4 @@
+INFO
+LIST
+ECHO Hello
+CD Test
